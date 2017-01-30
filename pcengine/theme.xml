@@ -9,7 +9,7 @@
 		</image>
 
 		<image name="logo">
-			<path>./art/tg16_1.svg</path>
+			<path>./art/pce.svg</path>
         </image>
 		
 		<helpsystem name="help">
