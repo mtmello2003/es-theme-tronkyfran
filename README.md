@@ -10,3 +10,4 @@ theme Update:
 - sega cd
 - zx81
 - fds
+- gw
