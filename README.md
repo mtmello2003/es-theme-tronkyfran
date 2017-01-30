@@ -8,4 +8,5 @@ theme Update:
 - wonderswancolor
 - virtual box
 - sega cd
+- zx81
 
