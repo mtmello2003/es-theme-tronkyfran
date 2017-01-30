@@ -12,3 +12,4 @@ theme update:
 - fds
 - gw
 - odyssey2
+- supergrafx
