@@ -14,3 +14,4 @@ theme update:
 - gw
 - odyssey2
 - supergrafx
+- image viewer
