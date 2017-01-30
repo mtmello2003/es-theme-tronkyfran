@@ -6,6 +6,7 @@ For use with EmulationStation (http://www.emulationstation.org/)
 
 theme update:
 - wonderswancolor
+- wonderswan
 - virtual boy
 - sega cd
 - zx81
