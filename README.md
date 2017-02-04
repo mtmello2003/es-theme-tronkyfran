@@ -15,3 +15,4 @@ theme update:
 - odyssey2
 - supergrafx
 - image viewer
+- favorites
